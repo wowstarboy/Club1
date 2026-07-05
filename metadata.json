@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Clone",
+  "description": "A UI clone of the TikTok home page feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
